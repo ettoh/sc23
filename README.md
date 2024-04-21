@@ -1,4 +1,4 @@
-# Student Conference 2024 Material
+# Student Conference 2023 Material
 
 3D model and code to reproduce one of the experiments to compare two algorithms for NVIDIA's Micro Meshes.
 
@@ -9,7 +9,7 @@ You can find the ready-to-use 3D model [here](noise.obj). If you want to create 
 Make sure that all requirements are installed. For example:
 
 ```bash
-pyhton3 -m pip install -r requirements.txt
+python3 -m pip install -r requirements.txt
 python3 gen_model.py
 ```
 
